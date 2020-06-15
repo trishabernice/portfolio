@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolioWebApp/static/css/main.77b3ea70.chunk.css",
+    "main.js": "/portfolioWebApp/static/js/main.f3fd7f48.chunk.js",
+    "main.js.map": "/portfolioWebApp/static/js/main.f3fd7f48.chunk.js.map",
+    "runtime-main.js": "/portfolioWebApp/static/js/runtime-main.5bb0ab14.js",
+    "runtime-main.js.map": "/portfolioWebApp/static/js/runtime-main.5bb0ab14.js.map",
+    "static/css/2.e4346227.chunk.css": "/portfolioWebApp/static/css/2.e4346227.chunk.css",
+    "static/js/2.68c3aa46.chunk.js": "/portfolioWebApp/static/js/2.68c3aa46.chunk.js",
+    "static/js/2.68c3aa46.chunk.js.map": "/portfolioWebApp/static/js/2.68c3aa46.chunk.js.map",
+    "index.html": "/portfolioWebApp/index.html",
+    "precache-manifest.e5ae868e1122aa33b2b3c6c92f022aef.js": "/portfolioWebApp/precache-manifest.e5ae868e1122aa33b2b3c6c92f022aef.js",
+    "service-worker.js": "/portfolioWebApp/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/portfolioWebApp/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.77b3ea70.chunk.css.map": "/portfolioWebApp/static/css/main.77b3ea70.chunk.css.map",
+    "static/js/2.68c3aa46.chunk.js.LICENSE.txt": "/portfolioWebApp/static/js/2.68c3aa46.chunk.js.LICENSE.txt",
+    "static/media/DASB.png": "/portfolioWebApp/static/media/DASB.97e67b61.png",
+    "static/media/IlluminateEducation.png": "/portfolioWebApp/static/media/IlluminateEducation.f0bafddd.png",
+    "static/media/PERMIAS.png": "/portfolioWebApp/static/media/PERMIAS.5e9ca5d1.png",
+    "static/media/aboutme-pic.JPG": "/portfolioWebApp/static/media/aboutme-pic.a726dafb.JPG",
+    "static/media/App.css": "/portfolioWebApp/static/media/snoopy-background.fb8c8fc7.png",
+    "static/media/dchs-1.png": "/portfolioWebApp/static/media/dchs-1.97b04da4.png",
+    "static/media/dchs-2.png": "/portfolioWebApp/static/media/dchs-2.09aebb86.png",
+    "static/media/dchs-3.png": "/portfolioWebApp/static/media/dchs-3.d2a47e9b.png",
+    "static/media/react-logo.jpg": "/portfolioWebApp/static/media/react-logo.e6ec1dd5.jpg",
+    "static/media/shopee-logo.png": "/portfolioWebApp/static/media/shopee-logo.f36f592d.png",
+    "static/media/trisha-bernice-resume.pdf": "/portfolioWebApp/static/media/trisha-bernice-resume.583ee0f9.pdf",
+    "static/media/webapp-pic.png": "/portfolioWebApp/static/media/webapp-pic.46bfd7a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb0ab14.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.68c3aa46.chunk.js",
+    "static/css/main.77b3ea70.chunk.css",
+    "static/js/main.f3fd7f48.chunk.js"
+  ]
+}
