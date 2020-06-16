@@ -11,7 +11,7 @@ class ProjectDCHS extends Component{
             <div className="my-font">
                 <Grid>
                     <Cell col={6}>
-                    <div className="left-text">
+                    <div>
                         <div className="project-largeborder">
                             <p className="xlarge-font">Dane County Humane Society Mobile Application</p>
                             <p className="small-font">
@@ -22,15 +22,15 @@ class ProjectDCHS extends Component{
                            
                         </div>
                     </div>
-                    <img className="left-text" src={dchs3} width="530px" height="auto"></img>
+                    <img className="left-img" src={dchs3} width="530px" height="auto"></img>
 
                     </Cell>
 
                     <Cell col={6}>
-                        <img className="right-text" src= {dchs2} width="530px" height="300px"></img>
-                        <img className="right-text" src= {dchs1} width="530px" height="auto"></img>
+                        <img className="right-img" src= {dchs2} width="530px" height="300px"></img>
+                        <img className="right-img" src= {dchs1} width="530px" height="auto"></img>
 
-                        <div className="right-text">
+                        <div>
                             
                             <div className="project-border">
                             <p className="small-font">For the design, we focused on designing functionalities that do not exist on the DCHS Website, which we believed would be solving some problems for DCHS customers. These functionalities include: (1) Calendar (customers will be able to filter and check upcoming event details based on choice) (2) Notifications (alerts customers when they have upcoming events/classes) 
