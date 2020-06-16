@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43ae37cb6dd2fb005da00a436f9dc06d",
+    "revision": "fef8faad3f53aa4c9799c53969fb0643",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "77284d8fddc4411c6c16",
-    "url": "/portfolio/static/css/main.a0a3404c.chunk.css"
+    "revision": "f8183ac66971a6b717a0",
+    "url": "/portfolio/static/css/main.fb606db6.chunk.css"
   },
   {
     "revision": "ae873ba38dace25825ee",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.68c3aa46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77284d8fddc4411c6c16",
-    "url": "/portfolio/static/js/main.32bbdb15.chunk.js"
+    "revision": "f8183ac66971a6b717a0",
+    "url": "/portfolio/static/js/main.63b713dc.chunk.js"
   },
   {
     "revision": "0c18a05f1fb6137df5ad",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/aboutme-pic.a726dafb.JPG"
   },
   {
-    "revision": "41fc215333e79c58fdfe53ec22da1a82",
-    "url": "/portfolio/static/media/butterfly-background.41fc2153.png"
+    "revision": "7affd9f76522711d2c0fb6a5ea910689",
+    "url": "/portfolio/static/media/butterfly-background.7affd9f7.png"
   },
   {
     "revision": "97b04da40cde9f9fd8672e924afab3d0",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/donut-background.d0655535.png"
   },
   {
-    "revision": "70147d367f84ab281b729e7a997cee8d",
-    "url": "/portfolio/static/media/landingpace-pic.70147d36.png"
+    "revision": "50d76336273304a7f8da25110d8e440a",
+    "url": "/portfolio/static/media/landingpace-pic.50d76336.png"
   },
   {
     "revision": "ffa6212e99d17e29a16e5f702572b848",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/shopee-logo.f36f592d.png"
   },
   {
-    "revision": "fb8c8fc71354d97a4b1629506df59c76",
-    "url": "/portfolio/static/media/snoopy-background.fb8c8fc7.png"
+    "revision": "7c12e2128303d198f64df88d50f83aef",
+    "url": "/portfolio/static/media/snoopy-background.7c12e212.png"
   },
   {
     "revision": "583ee0f97a5c7e1aa9b249b18679ec76",
