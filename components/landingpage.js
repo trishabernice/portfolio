@@ -15,6 +15,8 @@ class LandingPage extends Component{
                             <a href={MyResume} download>
                                 <button className="button-type" alt="trisha-bernice-resume">Download My Resumé</button>
                             </a>
+                            <p className="my-font">* Mobile Optimized version coming soon *</p>
+
                         </div>
                         
                 </Grid>
