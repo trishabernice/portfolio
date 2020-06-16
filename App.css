@@ -181,6 +181,11 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.card-font {
+  font-size: 2vh;
+  line-height: 2.5vh;
+}
+
 .small-font{
   font-size: 2vh;
   line-height: 3.1vh;
@@ -198,3 +203,6 @@
   line-height: 6vh;
 }
 
+.card-styling {
+  top: 5vh;
+}
