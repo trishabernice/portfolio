@@ -22,13 +22,13 @@ class ProjectDCHS extends Component{
                            
                         </div>
                     </div>
-                    <img className="left-img" src={dchs3} width="530px" height="auto"></img>
+                    <img className="left-img" src={dchs3}></img>
 
                     </Cell>
 
                     <Cell col={6}>
-                        <img className="right-img" src= {dchs2} width="530px" height="300px"></img>
-                        <img className="right-img" src= {dchs1} width="530px" height="auto"></img>
+                        <img className="right-img" src= {dchs2}></img>
+                        <img className="right-img" src= {dchs1}></img>
 
                         <div>
                             
