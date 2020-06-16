@@ -12,7 +12,7 @@ class App extends Component{
     <Layout>
         <Header className="header-color" title="Menu" scroll >
             <Navigation>
-                <Link to="/" className="my-font">Home</Link>
+                <Link to="/portfolio" className="my-font">Home</Link>
                 <Link to="/aboutme" className="my-font">About Me</Link>
                 <Link to="/projects" className="my-font">Projects</Link>
                 <Link to="/experience" className="my-font">Experience</Link>
@@ -21,7 +21,7 @@ class App extends Component{
         </Header>
         <Drawer title="Menu">
             <Navigation>
-                <Link to="/" className="my-font">Home</Link>
+                <Link to="/portfolio" className="my-font">Home</Link>
                 <Link to="/aboutme" className="my-font">About Me</Link>
                 <Link to="/projects" className="my-font">Projects</Link>
                 <Link to="/experience" className="my-font">Experience</Link>
