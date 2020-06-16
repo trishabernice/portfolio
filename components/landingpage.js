@@ -11,7 +11,7 @@ class LandingPage extends Component{
                     <Cell col = {12}></Cell>
                         <div className="intro-text">
                             <h3 className="typewriter">Hey, I'm Trisha</h3>
-                            <h4 className="my-font">and I love coding!</h4>
+                            <h4 className="my-font">and I CODE</h4>
                             <a href={MyResume} download>
                                 <button className="button-type" alt="trisha-bernice-resume">Download My Resumé</button>
                             </a>
