@@ -10,7 +10,7 @@ class App extends Component{
     return(
       <div className="demo-big-content">
     <Layout>
-        <Header className="header-color" title="Menu" scroll >
+        <Header className="header-color" title="Menu" scroll position="fixed" flex-shrink="0">
             <Navigation>
                 <Link to="/portfolio" className="my-font">Home</Link>
                 <Link to="/aboutme" className="my-font">About Me</Link>
