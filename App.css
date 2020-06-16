@@ -1,5 +1,6 @@
 .header-color {
   background: black !important;
+  height: 5vh;
 }
 
 /*LANDING PAGE */
@@ -7,10 +8,10 @@
   margin: auto;
   background-image: url('img/landingpace-pic.png');
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
   width: auto;
-  padding-top: 11vh;
 }
 .intro-text {
   color: black;
@@ -50,6 +51,7 @@
   background-image: url('img/snoopy-background.png');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
   width: auto;
   margin: auto;
@@ -74,6 +76,7 @@
   background-image: url('img/butterfly-background.png');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
   width: auto;
   margin: auto;
@@ -103,6 +106,7 @@
 .projectsbackground-grid {
   background-image: url('img/laptop-background.png');
   background-size: cover;
+  background-position: center;
   height: 100vh;
   width: auto;
   margin: auto;
@@ -184,7 +188,6 @@
 .medium-font {
   font-size:2.8vh;
   line-height: 2.8vh;
-
 }
 .large-font {
   font-size: 3.5vh;
@@ -194,3 +197,4 @@
   font-size: 4.5vh;
   line-height: 6vh;
 }
+
