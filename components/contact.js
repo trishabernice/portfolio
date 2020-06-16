@@ -8,7 +8,7 @@ class Contact extends Component{
                 <Grid className="contact-grid">
                     <Cell col={12}>
                     <div className="contact-text">
-                        <p className="font-xlarge">- Let's get Connected -</p>
+                        <p className="xlarge-font">- Let's get Connected -</p>
                         <p>Connect with me on LinkedIn, Check out my Github, Follow me on Instagram or Send me an Email!</p>
                     </div>
                 
