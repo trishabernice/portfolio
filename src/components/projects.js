@@ -10,7 +10,7 @@ class Projects extends Component{
             <div className="my-font">
                 <Grid className="projectsbackground-grid">
                     {/* PROJECT #1*/}
-                        <Card shadow={5} style={{height:'50vh', width:'40vw', margin:'auto'}}>
+                        <Card shadow={5} position="absolute" style={{height:'50vh', width:'40vw', margin:'auto'}}>
                             <CardTitle style = {{color: 'white', height: '25vh', background: 'url(https://mljm66nyxdyi.i.optimole.com/P29XpA-_CVPWVwh/w:467/h:399/q:auto/https://sceel.io/wp-content/uploads/2019/10/Flutter-Logo-2.png) center / cover'}}>
                                 DCHS Mobile Application
                             </CardTitle>
@@ -27,7 +27,7 @@ class Projects extends Component{
                         </Card>
 
                     {/* PROJECT #2*/}
-                        <Card shadow={5} style={{height:'50vh', width:'40vw', margin:'auto'}}>
+                        <Card shadow={5} position="absolute" style={{ height:'50vh', width:'40vw', margin:'auto'}}>
                             <CardTitle style = {{color: 'white', height: '25vh', background: 'url(https://miro.medium.com/max/1200/0*JWL-dYH8mOxe9EGb.png) center / cover'}}>
                                 Portfolio Website
                             </CardTitle>
