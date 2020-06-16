@@ -10,8 +10,8 @@ class LandingPage extends Component{
                 <Grid className="landingpage-grid">
                     <Cell col = {12}></Cell>
                         <div className="intro-text">
-                            <h1 className="typewriter">Hey, I'm Trisha</h1>
-                            <h3 className="my-font">and I love coding!</h3>
+                            <h3 className="typewriter">Hey, I'm Trisha</h3>
+                            <h4 className="my-font">and I love coding!</h4>
                             <a href={MyResume} download>
                                 <button className="button-type" alt="trisha-bernice-resume">Download My Resumé</button>
                             </a>
