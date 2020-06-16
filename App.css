@@ -8,7 +8,6 @@
   background-image: url('img/landingpace-pic.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
   height: 100vh;
   width: auto;
   padding-top: 11vh;
@@ -51,7 +50,6 @@
   background-image: url('img/snoopy-background.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
   height: 100vh;
   width: auto;
   margin: auto;
@@ -76,7 +74,6 @@
   background-image: url('img/butterfly-background.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
   height: 100vh;
   width: auto;
   margin: auto;
@@ -106,7 +103,6 @@
 .projectsbackground-grid {
   background-image: url('img/laptop-background.png');
   background-size: cover;
-  background-position: center;
   height: 100vh;
   width: auto;
   margin: auto;
@@ -130,7 +126,6 @@
 .experience-grid {
   background-image: url('img/donut-background.png');
   background-size: cover;
-  background-repeat: repeat-y;
   height: auto;
   width: 100vw;
   margin: auto;
@@ -194,10 +189,8 @@
 .large-font {
   font-size: 3.5vh;
   line-height: 3.5vh;
-
 }
 .xlarge-font {
   font-size: 4.5vh;
   line-height: 6vh;
-
 }
