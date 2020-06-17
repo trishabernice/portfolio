@@ -12,11 +12,10 @@ class LandingPage extends Component{
                         <div className="intro-text">
                             <h3 className="typewriter">Hey, I'm Trisha</h3>
                             <h4 className="my-font">and I CODE</h4>
-                            <a href={MyResume} download>
+                            <a href={MyResume} download="Trisha Bernice - Resumé">
                                 <button className="button-type" alt="trisha-bernice-resume">Download My Resumé</button>
                             </a>
                             <p className="my-font">* Mobile Optimized version coming soon *</p>
-
                         </div>
                         
                 </Grid>
