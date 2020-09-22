@@ -45,8 +45,6 @@ class Experience extends Component{
                     </Cell>
 
                     <Cell col={6}>
-
-                    <div className="right-text">
                         <img className="right-img"src={IlluminateLogo}></img>
 
                         <div className="right-text">
