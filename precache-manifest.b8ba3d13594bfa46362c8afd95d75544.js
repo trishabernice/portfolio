@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94f46baba0eb4347c668b9f340fd74c8",
+    "revision": "f17c1d4b1b2b87df64dc01f083f191dd",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "5f27bb0b634b27012c9d",
+    "revision": "ddb910534c94f62e1cee",
     "url": "/portfolio/static/css/main.e83d6ab6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.6d5a85c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f27bb0b634b27012c9d",
-    "url": "/portfolio/static/js/main.8b6d3442.chunk.js"
+    "revision": "ddb910534c94f62e1cee",
+    "url": "/portfolio/static/js/main.d82abbdb.chunk.js"
   },
   {
     "revision": "0c18a05f1fb6137df5ad",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/snoopy-background.7c12e212.png"
   },
   {
-    "revision": "7c5d3a39c0b7297551e255fcae031dbb",
-    "url": "/portfolio/static/media/trisha-bernice-resume.7c5d3a39.pdf"
+    "revision": "851d5ea3235ad4289cb0b39a0db875f6",
+    "url": "/portfolio/static/media/trisha-bernice-resume.851d5ea3.pdf"
   },
   {
     "revision": "46bfd7a99f20d5b8fc38d8f088ed04fd",
