@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "homepage": "http://trishabernice.github.io/portfolio",
-=======
   "homepage": "http://{trishabernice}.github.io/{portfolioWebApp}",
->>>>>>> b8c114bf7a431883f3b05bac4684b6241f009a82
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -39,11 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-  },
-  "devDependencies": {
-    "gh-pages": "^3.0.0"
-=======
->>>>>>> b8c114bf7a431883f3b05bac4684b6241f009a82
   }
 }
