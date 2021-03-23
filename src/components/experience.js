@@ -12,7 +12,6 @@ class Experience extends Component{
             <div className="my-font">
                 <Grid className="experience-grid">
                     <Cell col={6}>
-                    <img className="left-img" src={SclLogo} ></img>
 
                     <div className="left-text">
                         <div className="text-border">
@@ -47,19 +46,6 @@ class Experience extends Component{
                     </Cell>
 
                     <Cell col={6}>
-
-                    <div className="right-text">
-                        <div className="text-border">
-                            <p className="large-font">Shopee Code League (In Progress)</p>
-                            <p className="medium-font">
-                                Challenge Participant
-                            </p>
-                            <p className="small-font">Shopee Code League is a 2-month online coding challenge that includes 8 competitions, algorithm questions as well as training workshops. Together with a group of 3 other talented Computer Science students, we participate in this Code League to learn, solve problems and challenge ourselves.</p>
-                            <a href="https://careers.shopee.sg/codeleague/" rel="noopener noreferrer" target="_blank">
-                                <button className="button-type">Shopee Code League Website</button>
-                            </a>
-                            </div>
-                        </div>
 
                         <img className="right-img"src={IlluminateLogo}></img>
 
